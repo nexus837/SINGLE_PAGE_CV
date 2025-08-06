@@ -4,7 +4,7 @@ A professional CV/resume built using semantic HTML5 elements, complete with SEO 
 
 ## Live Demo
 
-**Project Page URL:** `https://your-username.github.io/your-repository-name/cv.html`
+**Project Page URL:** `https://github.com/nexus837/SINGLE_PAGE_CV/blob/main/CV.html`
 
 *(Replace with your actual GitHub Pages URL once deployed)*
 
@@ -23,7 +23,6 @@ This project creates a single-page CV using semantic HTML structure that is:
 - **Semantic HTML5**: Uses proper semantic elements (`<header>`, `<main>`, `<section>`, `<article>`, `<address>`)
 - **SEO Optimized**: Includes essential meta tags for search engines
 - **Social Media Ready**: Open Graph and Twitter Card tags for better sharing
-- **Favicon Support**: Multiple favicon formats for cross-browser compatibility
 - **Responsive Structure**: Built with mobile-first principles
 - **Accessible**: Proper HTML structure for screen readers
 
@@ -40,9 +39,6 @@ This project creates a single-page CV using semantic HTML structure that is:
 ```
 your-cv-project/
 ├── cv.html             # Main CV page
-├── favicon.ico         # Favicon (16x16, 32x32)
-├── favicon-16x16.png   # 16x16 PNG favicon
-├── favicon-32x32.png   # 32x32 PNG favicon
 └── README.md           # This file
 ```
 
@@ -92,9 +88,6 @@ To customize this CV for your own use:
    - Update Open Graph tags with your information
    - Change the page title
 
-4. **Add Favicons:**
-   - Replace placeholder favicon files with your own
-   - Generate favicons using tools like [Favicon Generator](https://www.favicon-generator.org/)
 
 ## Key Requirements Met
 
@@ -102,7 +95,6 @@ To customize this CV for your own use:
 - Single-page layout with education, skills, and career history
 - SEO meta tags in head section
 - Open Graph tags for social media sharing
-- Favicon linked in head section
 - Accessible and well-structured markup
 
 ## Deployment
