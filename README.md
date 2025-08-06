@@ -8,7 +8,7 @@ A professional CV/resume built using semantic HTML5 elements, complete with SEO 
 **readme.md url** `https://github.com/nexus837/SINGLE_PAGE_CV/blob/main/README.md`
 **PROJECT URL** `https://github.com/nexus837/SINGLE_PAGE_CV`
 **Local Development:** Currently running at `http://127.0.0.1:5500/cv.html`
-
+**Live Demo:** `https://nexus837.github.io/SINGLE_PAGE_CV/`
 ## Project Overview
 
 This project creates a single-page CV using semantic HTML structure that is:
