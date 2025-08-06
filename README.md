@@ -2,13 +2,8 @@
 
 A professional CV/resume built using semantic HTML5 elements, complete with SEO optimization and social media sharing capabilities.
 
-## Live Demo
+**Project URL:** https://nexus837.github.io/SINGLE_PAGE_CV/
 
-**Project Page URL:** `https://github.com/nexus837/SINGLE_PAGE_CV/blob/main/CV.html`
-**readme.md url** `https://github.com/nexus837/SINGLE_PAGE_CV/blob/main/README.md`
-**PROJECT URL** `https://nexus837.github.io/SINGLE_PAGE_CV/`
-**Local Development:** Currently running at `http://127.0.0.1:5500/cv.html`
-**Live Demo:** `https://nexus837.github.io/SINGLE_PAGE_CV/`
 ## Project Overview
 
 This project creates a single-page CV using semantic HTML structure that is:
@@ -45,48 +40,13 @@ your-cv-project/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/semantic-html-cv.git
-   cd semantic-html-cv
+   git clone https://github.com/nexus837/SINGLE_PAGE_CV.git
+   cd SINGLE_PAGE_CV
    ```
 
 2. **Open in browser:**
    - Simply open `cv.html` in your web browser
-   - Or if using Live Server (like you are): Access at `http://127.0.0.1:5500/cv.html`
-   - Or use other local servers:
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   # Then visit: http://localhost:8000/cv.html
-   
-   # Using Node.js (if you have http-server installed)
-   npx http-server
-   # Then visit: http://localhost:8080/cv.html
-   ```
-
-3. **View the CV:**
-   - If using Live Server: `http://127.0.0.1:5500/cv.html`
-   - If using Python server: `http://localhost:8000/cv.html`
-   - Or directly open the `cv.html` file in your browser
-
-## Customization
-
-To customize this CV for your own use:
-
-1. **Update Personal Information:**
-   - Replace "Your Name" with your actual name
-   - Update contact details in the `<address>` section
-   - Modify the job title and skills
-
-2. **Add Your Content:**
-   - Replace placeholder education details
-   - Update work experience sections
-   - Add your LinkedIn and GitHub profile links
-
-3. **Update Meta Tags:**
-   - Modify SEO meta descriptions and keywords
-   - Update Open Graph tags with your information
-   - Change the page title
-
+   - Or visit the live demo: https://nexus837.github.io/SINGLE_PAGE_CV/
 
 ## Key Requirements Met
 
@@ -96,27 +56,6 @@ To customize this CV for your own use:
 - Open Graph tags for social media sharing
 - Accessible and well-structured markup
 
-## Deployment
-
-### GitHub Pages Deployment:
-
-1. **Push to GitHub:**
-   ```bash
-   git add .
-   git commit -m "Add semantic HTML CV"
-   git push origin main
-   ```
-
-2. **Enable GitHub Pages:**
-   - Go to your repository settings
-   - Scroll to "Pages" section
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/ (root)" folder
-   - Save settings
-
-3. **Access your CV:**
-   - Your CV will be available at: `https://your-username.github.io/repository-name/cv.html`
-
 ## Future Enhancements
 
 This project is structured to be easily enhanced with:
@@ -125,17 +64,3 @@ This project is structured to be easily enhanced with:
 - Print-friendly styles
 - Dark/light mode toggle
 - Responsive design improvements
-
-## Learning Objectives
-
-This project demonstrates:
-- Proper use of semantic HTML5 elements
-- SEO best practices for web pages
-- Social media optimization techniques
-- Accessible web development practices
-- Clean, maintainable HTML structure
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for improvements!
-
