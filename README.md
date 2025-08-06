@@ -5,6 +5,7 @@ A professional CV/resume built using semantic HTML5 elements, complete with SEO 
 ## Live Demo
 
 **Project Page URL:** `https://github.com/nexus837/SINGLE_PAGE_CV/blob/main/CV.html`
+**readme.md url** `https://github.com/nexus837/SINGLE_PAGE_CV/blob/main/README.md`
 
 **Local Development:** Currently running at `http://127.0.0.1:5500/cv.html`
 
